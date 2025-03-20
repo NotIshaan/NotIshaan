@@ -18,8 +18,8 @@
 
 ## GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotIshaan&show_icons=true&theme=dark" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotIshaan&theme=dark" height="150">
 </p>
 
 ---

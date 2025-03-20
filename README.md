@@ -25,9 +25,9 @@
 ---
 
 ## Connect with Me  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
-📩 **Email:** your.email@example.com  
-🐦 **Twitter/X:** [Your Twitter](https://twitter.com/your-profile)  
+🔗 **LinkedIn:** [Ishaan Bhadrike](https://www.linkedin.com/in/ishaanbhadrike/)  
+📩 **Email:** ishaanworks24@gmail.com
+🐦 **Twitter/X:** [Ishaan](https://x.com/ishaanbcodes)  
 
 ---
 

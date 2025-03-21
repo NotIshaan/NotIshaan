@@ -27,6 +27,7 @@
 ## Connect with Me  
 🔗 **LinkedIn:** [Ishaan Bhadrike](https://www.linkedin.com/in/ishaanbhadrike/)  
 📩 **Email:** ishaanworks24@gmail.com
+
 🐦 **Twitter/X:** [Ishaan](https://x.com/ishaanbcodes)  
 
 ---

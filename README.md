@@ -43,8 +43,7 @@
 
 ## Connect with Me  
 🔗 **LinkedIn:** [Ishaan Bhadrike](https://www.linkedin.com/in/ishaanbhadrike/)  
-🌐 **Website:** [Portfolio](https://ishaanbhadrike.vercel.app/)
-
+🌐 **Website:** [Portfolio](https://ishaanbhadrike.vercel.app/) 
 📩 **Email:** ishaanworks24@gmail.com  
 🐦 **Twitter/X:** [Ishaan](https://x.com/ishaanbcodes)  
 
